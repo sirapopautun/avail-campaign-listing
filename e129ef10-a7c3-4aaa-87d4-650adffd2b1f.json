@@ -1,0 +1,8 @@
+{
+  "name": "ชื่อ",
+  "logo": "URL รูป.png",
+  "rpc_url": "http://<ip>:9944",
+  "explorer_url": "http://<ip>:4000",
+  "metrics_endpoint": "http://<ip>:9615/metrics",
+  "id": "ยูไอดีที่สร้าง"
+}
