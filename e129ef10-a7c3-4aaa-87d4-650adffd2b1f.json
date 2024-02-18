@@ -1,0 +1,8 @@
+{
+  "name": "ligasure",
+  "logo": "https://imgur.com/a/akfqMlZ.png",
+  "rpc_url": "http://194.195.90.65:9944",
+  "explorer_url": "http://194.195.90.65:4000",
+  "metrics_endpoint": "http://194.195.90.65:9615/metrics",
+  "id": "e129ef10-a7c3-4aaa-87d4-650adffd2b1f"
+}
